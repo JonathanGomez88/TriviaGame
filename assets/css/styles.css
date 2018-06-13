@@ -20,7 +20,7 @@ form {
 background: darkslateblue;
 width: 100%;
 color: white;
-padding: 20px;
+padding: 0px;
 
 
 
@@ -112,7 +112,7 @@ label {
         z-index: 150;
         margin-top: -130px;
         position: fixed;
-        margin-left: 330px;
+        margin-left: 290px;
         color: white
     }
     h2 {
