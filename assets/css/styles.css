@@ -94,6 +94,23 @@ label {
           height: 300px;
           width: 100%
       }
+      #timer {
+        background-color: darkblue;
+        padding: 10px;
+        height: 100px;
+        width: 125px;
+        z-index: 150;
+        margin-top: -130px;
+        position: fixed;
+        margin-left: 500px;
+        color: white
+    }
+    h2 {
+        font-size: 1.2em;
+    }
+    h3 {
+        font-size: 1.2em;
+    }
   }
 
   /* 640 */
